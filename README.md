@@ -7,6 +7,12 @@
 ## Overview
 SmartAgri is an IoT-based device that simplifies and automates agricultural work. It connects to the internet and has sensors that provide real-time data on temperature, humidity, soil moisture, and light levels. 
 
+## Authors
+- [@Ansh Verma](https://github.com/anshverma1612)
+- [@Tirth Patel]()
+- [@Vanya Nandwani](https://github.com/vannyyyaaa)
+- [@Archit Patro](https://github.com/Archit-Patro)
+
 ## Features
 - Real-time monitoring of temperature, humidity, soil moisture, and light levels
 - Automatic irrigation based on soil moisture level
