@@ -22,8 +22,20 @@ SmartAgri is an IoT-based device that simplifies and automates agricultural work
 2. Connect the device to a power source and a Wi-Fi network
 3. The device will start collecting data and controlling the environment based on pre-set parameters
 
-### Mobile App
-SmartAgri can be accessed and controlled through a mobile app. The app provides real-time data on the temperature, humidity, soil moisture, as well as allowing users to adjust the settings and control the device remotely.
+ ### Tech Stack 
+
+●	Raspberry Pi<br>
+●	Rain Sensor<br>
+●	Soil Moisture Sensor<br>
+●	lm35 Temperature Sensor<br>
+●	ADC<br>
+●	Thingspeak Breadboard<br>
+●	Wires Raspbian OS<br>
+●	Advanced IP scanner<br>
+●	Putty <br>
+●	VNC Viewer<br>
+●	Microsd Card<br>
+<br>
 
 ### Benefits
 SmartAgri offers many benefits to farmers and growers, including increased crop yields and quality, reduced water and energy consumption, improved plant health and growth, time and labor savings, and remote monitoring and control.
