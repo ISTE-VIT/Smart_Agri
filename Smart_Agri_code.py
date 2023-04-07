@@ -80,6 +80,6 @@ while True:
         time.sleep(2)
         print("Water dispensed")
     else:
-        print("Water is not required")
+        print("Water isn't required")
     print("\n")
     time.sleep(5)
